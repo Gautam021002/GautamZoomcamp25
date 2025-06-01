@@ -1,4 +1,5 @@
 # GautamZoomcamp25
 <br>
-
-trying To be a Data engineer at any cost
+Author -- Gautam Mishra
+Tying To be a Data engineer at any cost
+Documenting My journey
